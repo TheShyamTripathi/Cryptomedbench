@@ -1,0 +1,501 @@
+document_id,title,abstract_length,has_chemicals,has_diseases,has_relations
+227508,Naloxone reverses the antihypertensive effect of clonidine.,153,Yes,Yes,Yes
+354896,Lidocaine-induced cardiac asystole.,54,Yes,Yes,Yes
+435349,Suxamethonium infusion rate and observed fasciculations. A dose-response study.,130,Yes,Yes,Yes
+603022,"Galanthamine hydrobromide, a longer acting anticholinesterase drug, in the treatment of the central ...",52,Yes,Yes,Yes
+1378968,Effects of uninephrectomy and high protein feeding on lithium-induced chronic renal failure in rats.,261,Yes,Yes,Yes
+1420741,Treatment of Crohn's disease with fusidic acid: an antibiotic with immunosuppressive properties simi...,223,Yes,Yes,Yes
+1601297,Electrocardiographic evidence of myocardial injury in psychiatrically hospitalized cocaine abusers.,42,Yes,Yes,Yes
+1967484,Sulpiride-induced tardive dystonia.,58,Yes,Yes,Yes
+2234245,Ocular and auditory toxicity in hemodialyzed patients receiving desferrioxamine.,188,Yes,Yes,Yes
+2385256,Myasthenia gravis presenting as weakness after magnesium administration.,144,Yes,Yes,Yes
+2505783,Chloroacetaldehyde and its contribution to urotoxicity during treatment with cyclophosphamide or ifo...,67,Yes,Yes,Yes
+2515254,Source of pain and primitive dysfunction in migraine: an identical site?,121,Yes,Yes,Yes
+2572625,Clotiazepam-induced acute hepatitis.,78,Yes,Yes,Yes
+2632720,Arterial hypertension as a complication of prolonged ketoconazole treatment.,106,Yes,Yes,Yes
+2670794,Effects of an inhibitor of angiotensin converting enzyme (Captopril) on pulmonary and renal insuffic...,219,Yes,Yes,Yes
+2696505,A randomized comparison of labetalol and nitroprusside for induced hypotension.,100,Yes,Yes,Yes
+2924746,"Chronic carbamazepine treatment in the rat: efficacy, toxicity, and effect on plasma and tissue fola...",192,Yes,Yes,Yes
+2951327,Inhibition of sympathoadrenal activity by atrial natriuretic factor in dogs.,220,Yes,Yes,Yes
+3192036,Death from chemotherapy in gestational trophoblastic disease.,259,Yes,Yes,Yes
+3409645,Sexual dysfunction among patients with arthritis.,129,Yes,Yes,Yes
+3412544,Does paracetamol cause urothelial cancer or renal papillary necrosis?,104,Yes,Yes,Yes
+3425586,Dapsone-associated Heinz body hemolytic anemia in a Cambodian woman with hemoglobin E trait.,173,Yes,Yes,Yes
+3437726,Severe complications of antianginal drug therapy in a patient identified as a poor metabolizer of me...,208,Yes,Yes,Yes
+3693336,Triazolam-induced brief episodes of secondary mania in a depressed patient.,49,Yes,Yes,Yes
+3780846,On the mechanisms of the development of tolerance to the muscular rigidity produced by morphine in r...,261,Yes,Yes,Yes
+3800626,Compression neuropathy of the radial nerve due to pentazocine-induced fibrous myopathy.,107,Yes,Yes,Yes
+3827439,Recurrent reversible acute renal failure from amphotericin.,67,Yes,Yes,Yes
+3997294,Pneumonitis with pleural and pericardial effusion and neuropathy during amiodarone therapy.,84,Yes,Yes,Yes
+4071154,Indomethacin-induced renal insufficiency: recurrence on rechallenge.,95,Yes,Yes,Yes
+6103707,Comparison of the subjective effects and plasma concentrations following oral and i.m. administratio...,135,Yes,Yes,Yes
+6229975,Changes in heart size during long-term timolol treatment after myocardial infarction.,118,Yes,Yes,Yes
+6286738,Vitamin D3 toxicity in dairy cows.,189,Yes,Yes,Yes
+6287825,Diseases of peripheral nerves as seen in the Nigerian African.,166,Yes,Yes,Yes
+6386793,A double-blind study of the efficacy and safety of dothiepin hydrochloride in the treatment of major...,107,Yes,Yes,Yes
+6387529,Behavioral effects of diazepam and propranolol in patients with panic disorder and agoraphobia.,145,Yes,Yes,Yes
+6692345,Effect of aspirin on N-[4-(5-nitro-2-furyl)-2-thiazolyl]-formamide-induced epithelial proliferation ...,167,Yes,Yes,Yes
+6773726,Provocation of postural hypotension by nitroglycerin in diabetic autonomic neuropathy?,105,Yes,Yes,Yes
+6888657,Characterization of estrogen-induced adenohypophyseal tumors in the Fischer 344 rat.,231,Yes,Yes,Yes
+7265370,Triamterene nephrolithiasis complicating dyazide therapy.,48,Yes,Yes,Yes
+7423039,Metabolic involvement in adriamycin cardiotoxicity.,143,Yes,Yes,Yes
+7444978,Age-dependent sensitivity of the rat to neurotoxic effects of streptomycin.,94,Yes,Yes,Yes
+7834920,Crescentic fibrillary glomerulonephritis associated with intermittent rifampin therapy for pulmonary...,107,Yes,Yes,Yes
+7881871,Time course of lipid peroxidation in puromycin aminonucleoside-induced nephropathy.,159,Yes,Yes,Yes
+7930386,Clomipramine-induced sleep disturbance does not impair its prolactin-releasing action.,233,Yes,Yes,Yes
+7988234,Angioedema following the intravenous administration of metoprolol.,87,Yes,Yes,Yes
+8073369,Effect of coniine on the developing chick embryo.,255,Yes,Yes,Yes
+8302922,Epidural blood flow during prostaglandin E1 or trimethaphan induced hypotension.,208,Yes,Yes,Yes
+8410052,Immunohistochemical studies with antibodies to neurofilament proteins on axonal damage in experiment...,122,Yes,Yes,Yes
+8423889,Increase of Parkinson disability after fluoxetine medication.,47,Yes,Yes,Yes
+8682684,Acetaminophen-induced hypotension.,100,Yes,Yes,Yes
+9625142,"Acute hepatitis, autoimmune hemolytic anemia, and erythroblastocytopenia induced by ceftriaxone.",76,Yes,Yes,Yes
+9766615,Adverse effects of the atypical antipsychotics. Collaborative Working Group on Clinical Trial Evalua...,171,Yes,Yes,Yes
+10193204,Effects of tetrandrine and fangchinoline on experimental thrombosis in mice and human platelet aggre...,158,Yes,Yes,Yes
+10526274,Gemcitabine plus vinorelbine in nonsmall cell lung carcinoma patients age 70 years or older or patie...,384,Yes,Yes,Yes
+10669626,Warfarin-induced artery calcification is accelerated by growth and vitamin D.,525,Yes,Yes,Yes
+11379838,Antidepressant-induced mania in bipolar patients: identification of risk factors.,319,Yes,Yes,Yes
+11419773,Caffeine-induced cardiac arrhythmia: an unrecognised danger of healthfood products.,42,Yes,Yes,Yes
+11581460,Bladder retention of urine as a result of continuous intravenous infusion of fentanyl: 2 case report...,96,Yes,Yes,Yes
+11706060,Combined antiretroviral therapy causes cardiomyopathy and elevates plasma lactate in transgenic AIDS...,198,Yes,Yes,Yes
+11752354,Oral contraceptives and the risk of myocardial infarction.,317,Yes,Yes,Yes
+12369736,Effects of 5-HT1B receptor ligands microinjected into the accumbal shell or core on the cocaine-indu...,248,Yes,Yes,Yes
+12639165,Ticlopidine-induced cholestatic hepatitis.,235,Yes,Yes,Yes
+12653683,Epithelial sodium channel (ENaC) subunit mRNA and protein expression in rats with puromycin aminonuc...,249,Yes,Yes,Yes
+14659530,NO-induced migraine attack: strong increase in plasma calcitonin gene-related peptide (CGRP) concent...,256,Yes,Yes,Yes
+15804801,Coronary aneurysm after implantation of a paclitaxel-eluting stent.,114,Yes,Yes,Yes
+16160878,Behavioral effects of urotensin-II centrally administered in mice.,235,Yes,Yes,Yes
+16274958,Recurrent dysphonia and acitretin.,55,Yes,Yes,Yes
+16330766,Pharmacological modulation of pain-related brain activity during normal and central sensitization st...,246,Yes,Yes,Yes
+16574712,MDMA polydrug users show process-specific central executive impairments coupled with impaired social...,154,Yes,Yes,Yes
+17111419,Severe citrate toxicity complicating volunteer apheresis platelet donation.,189,Yes,Yes,Yes
+17175308,Proteinuria after conversion to sirolimus in renal transplant recipients.,341,Yes,Yes,Yes
+17244258,In vitro characterization of parasympathetic and sympathetic responses in cyclophosphamide-induced c...,256,Yes,Yes,Yes
+18020536,"Associations between use of benzodiazepines or related drugs and health, physical abilities and cogn...",368,Yes,Yes,Yes
+18023325,Acute vocal fold palsy after acute disulfiram intoxication.,179,Yes,Yes,Yes
+18208574,Higher optical density of an antigen assay predicts thrombosis in patients with heparin-induced thro...,257,Yes,Yes,Yes
+18343374,Central retinal vein occlusion associated with clomiphene-induced ovulation.,138,Yes,Yes,Yes
+18417364,Nicotine-induced nystagmus correlates with midpontine activation.,96,Yes,Yes,Yes
+18442015,Protective effect of verapamil on gastric hemorrhagic ulcers in severe atherosclerotic rats.,242,Yes,Yes,Yes
+18619688,Adriamycin-induced autophagic cardiomyocyte death plays a pathogenic role in a rat model of heart fa...,222,Yes,Yes,Yes
+19308880,"Confusion, a rather serious adverse drug reaction with valproic acid: a review of the French Pharmac...",163,Yes,Yes,Yes
+19631624,Learning and memory deficits in ecstasy users and their neural correlates during a face-learning tas...,248,Yes,Yes,Yes
+20003049,Prolonged elevation of plasma argatroban in a cardiac transplant patient with a suspected history of...,233,Yes,Yes,Yes
+20196116,"Antituberculosis therapy-induced acute liver failure: magnitude, profile, prognosis, and predictors ...",273,Yes,Yes,Yes
+20470218,Central nervous system complications during treatment of acute lymphoblastic leukemia in a single pe...,161,Yes,Yes,Yes
+20722491,Safety of capecitabine: a review.,180,Yes,Yes,Yes
+20882060,Effects of pallidal neurotensin on haloperidol-induced parkinsonian catalepsy: behavioral and electr...,127,Yes,Yes,Yes
+26094,Antihypertensive drugs and depression: a reappraisal.,79,Yes,Yes,Yes
+322550,Pulmonary shunt and cardiovascular responses to CPAP during nitroprusside-induced hypotension.,202,Yes,Yes,Yes
+869641,Mediation of enhanced reflex vagal bradycardia by L-dopa via central dopamine formation in dogs.,174,Yes,Yes,Yes
+1749407,Cocaine-induced myocardial infarction: clinical observations and pathogenetic considerations.,183,Yes,Yes,Yes
+1786266,"Rabbit syndrome, antidepressant use, and cerebral perfusion SPECT scan findings.",63,Yes,Yes,Yes
+1835291,Acute bronchodilating effects of ipratropium bromide and theophylline in chronic obstructive pulmona...,152,Yes,Yes,Yes
+1919871,Irreversible damage to the medullary interstitium in experimental analgesic nephropathy in F344 rats...,180,Yes,Yes,Yes
+1987816,Less frequent lithium administration and lower urine volume.,131,Yes,Yes,Yes
+2054792,Effect of adriamycin combined with whole body hyperthermia on tumor and normal tissues.,141,Yes,Yes,Yes
+2304736,Prazosin-induced stress incontinence.,127,Yes,Yes,Yes
+2312209,Myocardial infarction following sublingual administration of isosorbide dinitrate.,56,Yes,Yes,Yes
+2549018,Fluoxetine-induced akathisia: clinical and theoretical implications.,118,Yes,Yes,Yes
+2611118,Chronic active hepatitis associated with diclofenac sodium therapy.,59,Yes,Yes,Yes
+2673163,Stroke associated with cocaine use.,152,Yes,Yes,Yes
+3107448,Glyburide-induced hepatitis.,91,Yes,Yes,Yes
+3341566,Systolic pressure variation is greater during hemorrhage than during sodium nitroprusside-induced hy...,221,Yes,Yes,Yes
+3564823,Drug-induced arterial spasm relieved by lidocaine. Case report.,57,Yes,Yes,Yes
+3676049,Cerebral blood flow and metabolism during isoflurane-induced hypotension in patients subjected to su...,180,Yes,Yes,Yes
+3719553,Allergic reaction to 5-fluorouracil infusion.,70,Yes,Yes,Yes
+4008111,Amiodarone-induced sinoatrial block.,42,Yes,Yes,Yes
+6133211,Possible teratogenicity of sulphasalazine.,108,Yes,Yes,Yes
+6503301,Veno-occlusive liver disease after dacarbazine therapy (DTIC) for melanoma.,71,Yes,Yes,Yes
+6727060,A case of tardive dyskinesia caused by metoclopramide.,80,Yes,Yes,Yes
+7083920,Further observations on the electrophysiologic effects of oral amiodarone therapy.,82,Yes,Yes,Yes
+7269015,Busulfan-induced hemorrhagic cystitis.,66,Yes,Yes,Yes
+7352670,Rebound hypertensive after sodium nitroprusside prevented by saralasin in rats.,191,Yes,Yes,Yes
+7504976,Toxic hepatitis induced by antithyroid drugs: four cases including one with cross-reactivity between...,176,Yes,Yes,Yes
+7628595,Study of the role of vitamin B12 and folinic acid supplementation in preventing hematologic toxicity...,226,Yes,Yes,Yes
+7858459,Acute confusion induced by a high-dose infusion of 5-fluorouracil and folinic acid.,152,Yes,Yes,Yes
+7862923,Effect of switching carbamazepine to oxcarbazepine on the plasma levels of neuroleptics. A case repo...,87,Yes,Yes,Yes
+7919560,Erythema multiforme and hypersensitivity myocarditis caused by ampicillin.,104,Yes,Yes,Yes
+8092427,Immediate allergic reactions to amoxicillin.,297,Yes,Yes,Yes
+8638206,Persistent paralysis after prolonged use of atracurium in the absence of corticosteroids.,89,Yes,Yes,Yes
+8669433,Habitual use of acetaminophen as a risk factor for chronic renal failure: a comparison with phenacet...,222,Yes,Yes,Yes
+8690168,Reduction of heparan sulphate-associated anionic sites in the glomerular basement membrane of rats w...,268,Yes,Yes,Yes
+8739323,Effect of some anticancer drugs and combined chemotherapy on renal toxicity.,227,Yes,Yes,Yes
+8752018,Lithium-associated cognitive and functional deficits reduced by a switch to divalproex sodium: a cas...,138,Yes,Yes,Yes
+9390208,Treatment of previously treated metastatic breast cancer by mitoxantrone and 48-hour continuous infu...,251,Yes,Yes,Yes
+9406968,Upregulation of the expression of vasopressin gene in the paraventricular and supraoptic nuclei of t...,143,Yes,Yes,Yes
+9587734,Suxamethonium-induced cardiac arrest and death following 5 days of immobilization.,128,Yes,Yes,Yes
+9698967,An unusual toxic reaction to axillary block by mepivacaine with adrenaline.,128,Yes,Yes,Yes
+9855119,Clinical and histopathologic examination of renal allografts treated with tacrolimus (FK506) for at ...,239,Yes,Yes,Yes
+9869257,Memory facilitation and stimulation of endogenous nerve growth factor synthesis by the acetylcholine...,196,Yes,Yes,Yes
+10342929,Angioedema due to ACE inhibitors: common and inadequately diagnosed.,36,Yes,Yes,Yes
+10457883,Recurarization in the recovery room.,62,Yes,Yes,Yes
+10739826,Recurrent use of newer oral contraceptives and the risk of venous thromboembolism.,212,Yes,Yes,Yes
+10791295,Development of apomorphine-induced aggressive behavior: comparison of adult male and female Wistar r...,104,Yes,Yes,Yes
+11147747,Serotonergic antidepressants and urinary incontinence.,144,Yes,Yes,Yes
+11198499,Hypotension following the initiation of tizanidine in a patient treated with an angiotensin converti...,123,Yes,Yes,Yes
+11391224,Peritubular capillary basement membrane reduplication in allografts and native kidney disease: a cli...,250,Yes,Yes,Yes
+11426838,Conformationally restricted analogs of BD1008 and an antisense oligodeoxynucleotide targeting sigma1...,216,Yes,Yes,Yes
+11569530,"Pharmacokinetic/pharmacodynamic assessment of the effects of E4031, cisapride, terfenadine and terod...",240,Yes,Yes,Yes
+11587867,Fatal myeloencephalopathy due to accidental intrathecal vincristin administration: a report of two c...,126,Yes,Yes,Yes
+11679859,Intravenous administration of prochlorperazine by 15-minute infusion versus 2-minute bolus does not ...,331,Yes,Yes,Yes
+12041669,Antithymocyte globulin in the treatment of D-penicillamine-induced aplastic anemia.,64,Yes,Yes,Yes
+12198388,The relationship between hippocampal acetylcholine release and cholinergic convulsant sensitivity in...,285,Yes,Yes,Yes
+12574103,Prenatal dexamethasone programs hypertension and renal injury in the rat.,276,Yes,Yes,Yes
+12615818,The risk of venous thromboembolism in women prescribed cyproterone acetate in combination with ethin...,207,Yes,Yes,Yes
+12789195,Pseudoacromegaly induced by the long-term use of minoxidil.,103,Yes,Yes,Yes
+12820454,Combined androgen blockade-induced anemia in prostate cancer patients without bone involvement.,350,Yes,Yes,Yes
+14657095,Reversible dilated cardiomyopathy related to amphotericin B therapy.,51,Yes,Yes,Yes
+14765563,Risks of the consumption of beverages containing quinine.,73,Yes,Yes,Yes
+15036754,Organophosphate-induced convulsions and prevention of neuropathological damages.,228,Yes,Yes,Yes
+15145918,Differential modulation by estrogen of alpha2-adrenergic and I1-imidazoline receptor-mediated hypote...,251,Yes,Yes,Yes
+15233872,Cardioprotective effect of tincture of Crataegus on isoproterenol-induced myocardial infarction in r...,140,Yes,Yes,Yes
+15458908,Safety and adverse effects associated with raloxifene: multiple outcomes of raloxifene evaluation.,213,Yes,Yes,Yes
+15737522,Ceftriaxone-associated biliary pseudolithiasis in paediatric surgical patients.,128,Yes,Yes,Yes
+16005948,Evaluation of the anticocaine monoclonal antibody GNC92H2 as an immunotherapy for cocaine overdose.,149,Yes,Yes,Yes
+16167916,"The effects of short-term raloxifene therapy on fibrinolysis markers: TAFI, tPA, and PAI-1.",190,Yes,Yes,Yes
+16403073,Ketoconazole induced torsades de pointes without concomitant use of QT interval-prolonging drug.,107,Yes,Yes,Yes
+16755009,Pharmacological evidence for the potential of Daucus carota in the management of cognitive dysfuncti...,269,Yes,Yes,Yes
+16904497,Cauda equina syndrome after epidural steroid injection: a case report.,232,Yes,Yes,Yes
+16938416,High-dose testosterone is associated with atherosclerosis in postmenopausal women.,191,Yes,Yes,Yes
+17147461,Sirolimus-associated proteinuria and renal dysfunction.,258,Yes,Yes,Yes
+17241784,Progressive myopathy with up-regulation of MHC-I associated with statin therapy.,146,Yes,Yes,Yes
+17261653,Direct inhibition of cardiac hyperpolarization-activated cyclic nucleotide-gated pacemaker channels ...,238,Yes,Yes,Yes
+17343925,Influence of smoking on developing cochlea. Does smoking during pregnancy affect the amplitudes of t...,252,Yes,Yes,Yes
+17400887,Neuroinflammation and behavioral abnormalities after neonatal terbutaline treatment in rats: implica...,243,Yes,Yes,Yes
+17612891,Acute myocarditis associated with clozapine.,155,Yes,Yes,Yes
+18081909,Encephalopathy induced by levetiracetam added to valproate.,93,Yes,Yes,Yes
+18083142,Norepinephrine signaling through beta-adrenergic receptors is critical for expression of cocaine-ind...,195,Yes,Yes,Yes
+18182964,Clonidine for attention-deficit/hyperactivity disorder: II. ECG changes and adverse events analysis.,212,Yes,Yes,Yes
+18217897,Thalidomide has limited single-agent activity in relapsed or refractory indolent non-Hodgkin lymphom...,166,Yes,Yes,Yes
+18996674,Intracavernous epinephrine: a minimally invasive treatment for priapism in the emergency department.,68,Yes,Yes,Yes
+19058010,Effect of green tea and vitamin E combination in isoproterenol induced myocardial infarction in rats...,187,Yes,Yes,Yes
+19581773,Development of ocular myasthenia during pegylated interferon and ribavirin treatment for chronic hep...,126,Yes,Yes,Yes
+19759529,The glycine transporter-1 inhibitor SSR103800 displays a selective and specific antipsychotic-like p...,262,Yes,Yes,Yes
+19957053,Phenylephrine but not ephedrine reduces frontal lobe oxygenation following anesthesia-induced hypote...,217,Yes,Yes,Yes
+20619828,"A novel, multiple symptom model of obsessive-compulsive-like behaviors in animals.",189,Yes,Yes,Yes
+891050,Late recovery of renal function in a woman with the hemolytic uremic syndrome.,104,Yes,Yes,Yes
+983936,"Effects of acetylsalicylic acid, dipyridamole, and hydrocortisone on epinephrine-induced myocardial ...",220,Yes,Yes,Yes
+1428568,Changes in depressive status associated with topical beta-blockers.,123,Yes,Yes,Yes
+1720453,Long-term follow-up of ifosfamide renal toxicity in children treated for malignant mesenchymal tumor...,245,Yes,Yes,Yes
+1833784,Evidence for an involvement of D1 and D2 dopamine receptors in mediating nicotine-induced hyperactiv...,242,Yes,Yes,Yes
+1867351,Neuropsychiatric side effects after the use of mefloquine.,114,Yes,Yes,Yes
+2070391,Reduction in injection pain using buffered lidocaine as a local anesthetic before cardiac catheteriz...,139,Yes,Yes,Yes
+2266990,"Randomized, double-blind trial of mazindol in Duchenne dystrophy.",195,Yes,Yes,Yes
+2348231,Pentoxifylline (Trental) does not inhibit dipyridamole-induced coronary hyperemia: implications for ...,150,Yes,Yes,Yes
+2355241,Cause of death among patients with Parkinson's disease: a rare mortality due to cerebral haemorrhage...,127,Yes,Yes,Yes
+2445283,Tolerance and antiviral effect of ribavirin in patients with Argentine hemorrhagic fever.,97,Yes,Yes,Yes
+2950248,Dipyridamole-induced myocardial ischemia.,76,Yes,Yes,Yes
+3015567,Inhibition of immunoreactive corticotropin-releasing factor secretion into the hypophysial-portal ci...,143,Yes,Yes,Yes
+3031535,Noradrenergic involvement in catalepsy induced by delta 9-tetrahydrocannabinol.,138,Yes,Yes,Yes
+3125768,Intracranial pressure increases during alfentanil-induced rigidity.,136,Yes,Yes,Yes
+3187073,Adverse cardiac effects during induction chemotherapy treatment with cis-platin and 5-fluorouracil.,208,Yes,Yes,Yes
+3371379,Verapamil-induced carbamazepine neurotoxicity. A report of two cases.,52,Yes,Yes,Yes
+3503576,Serial studies of auditory neurotoxicity in patients receiving deferoxamine therapy.,322,Yes,Yes,Yes
+3560095,Flurbiprofen in the treatment of juvenile rheumatoid arthritis.,117,Yes,Yes,Yes
+3714122,The correlation between neurotoxic esterase inhibition and mipafox-induced neuropathic damage in rat...,199,Yes,Yes,Yes
+3828020,Cerebral infarction with a single oral dose of phenylpropanolamine.,62,Yes,Yes,Yes
+4812392,Treatment of psoriasis with azathioprine.,70,Yes,Yes,Yes
+6518066,Maternal lithium and neonatal Ebstein's anomaly: evaluation with cross-sectional echocardiography.,66,Yes,Yes,Yes
+6534871,Effects of training on the extent of experimental myocardial infarction in aging rats.,110,Yes,Yes,Yes
+6538499,Effect of polyethylene glycol 400 on adriamycin toxicity in mice.,70,Yes,Yes,Yes
+6747681,Intra-arterial BCNU chemotherapy for treatment of malignant gliomas of the central nervous system.,253,Yes,Yes,Yes
+6861444,Blood pressure response to chronic low-dose intrarenal noradrenaline infusion in conscious rats.,108,Yes,Yes,Yes
+7053303,Age and renal clearance of cimetidine.,152,Yes,Yes,Yes
+7088431,Development of clear cell adenocarcinoma in DES-exposed offspring under observation.,104,Yes,Yes,Yes
+7248170,Phenobarbitone-induced enlargement of the liver in the rat: its relationship to carbon tetrachloride...,146,Yes,Yes,Yes
+7453952,Attenuation of the lithium-induced diabetes-insipidus-like syndrome by amiloride in rats.,190,Yes,Yes,Yes
+7802851,Safety and side-effects of alprazolam. Controlled study in agoraphobia with panic disorder.,163,Yes,Yes,Yes
+8319760,Dup 753 prevents the development of puromycin aminonucleoside-induced nephrosis.,67,Yes,Yes,Yes
+8386779,Sodium bicarbonate alleviates penile pain induced by intracavernous injections for erectile dysfunct...,165,Yes,Yes,Yes
+8421099,Prospective study of the long-term effects of somatostatin analog (octreotide) on gallbladder functi...,199,Yes,Yes,Yes
+8649546,Improvement of levodopa-induced dyskinesia by propranolol in Parkinson's disease.,69,Yes,Yes,Yes
+8919272,Morphological features of encephalopathy after chronic administration of the antiepileptic drug valp...,274,Yes,Yes,Yes
+9199746,Macula toxicity after intravitreal amikacin.,82,Yes,Yes,Yes
+9249847,Iatrogenically induced intractable atrioventricular reentrant tachycardia after verapamil and cathet...,42,Yes,Yes,Yes
+9284778,Epidemic of liver disease caused by hydrochlorofluorocarbons used as ozone-sparing substitutes of ch...,274,Yes,Yes,Yes
+9522143,The effect of different anaesthetic agents in hearing loss following spinal anaesthesia.,138,Yes,Yes,Yes
+9522152,A transient neurological deficit following intrathecal injection of 1% hyperbaric bupivacaine for un...,154,Yes,Yes,Yes
+9672936,Pethidine-associated seizure in a healthy adolescent receiving pethidine for postoperative pain cont...,93,Yes,Yes,Yes
+9721172,Drug-associated acute-onset vanishing bile duct and Stevens-Johnson syndromes in a child.,144,Yes,Yes,Yes
+9727773,High incidence of primary pulmonary hypertension associated with appetite suppressants in Belgium.,189,Yes,Yes,Yes
+9754849,Choreoathetoid movements associated with rapid adjustment to methadone.,59,Yes,Yes,Yes
+10365197,Cocaine-induced mood disorder: prevalence rates and psychiatric symptoms in an outpatient cocaine-de...,106,Yes,Yes,Yes
+10704919,Hemolysis of human erythrocytes induced by tamoxifen is related to disruption of membrane structure.,347,Yes,Yes,Yes
+10706004,"Changes of sodium and ATP affinities of the cardiac (Na,K)-ATPase during and after nitric oxide defi...",233,Yes,Yes,Yes
+10721819,Effects of long-term pretreatment with isoproterenol on bromocriptine-induced tachycardia in conscio...,228,Yes,Yes,Yes
+10737864,A developmental analysis of clonidine's effects on cardiac rate and ultrasound production in infant ...,149,Yes,Yes,Yes
+10743446,Differential effects of systemically administered ketamine and lidocaine on dynamic and static hyper...,178,Yes,Yes,Yes
+11007689,Cyclosporine and tacrolimus-associated thrombotic microangiopathy.,220,Yes,Yes,Yes
+11256525,Repeated transient anuria following losartan administration in a patient with a solitary kidney.,200,Yes,Yes,Yes
+11334364,In vivo protection of dna damage associated apoptotic and necrotic cell deaths during acetaminophen-...,362,Yes,Yes,Yes
+11642480,Palpebral twitching in a depressed adolescent on citalopram.,60,Yes,Yes,Yes
+12063090,Metamizol potentiates morphine antinociception but not constipation after chronic treatment.,237,Yes,Yes,Yes
+12084448,Ifosfamide encephalopathy presenting with asterixis.,156,Yes,Yes,Yes
+12684739,Sub-chronic low dose gamma-vinyl GABA (vigabatrin) inhibits cocaine-induced increases in nucleus acc...,155,Yes,Yes,Yes
+12716030,Amount of bleeding and hematoma size in the collagenase-induced intracerebral hemorrhage rat model.,149,Yes,Yes,Yes
+12757899,Estradiol reduces seizure-induced hippocampal injury in ovariectomized female but not in male rats.,138,Yes,Yes,Yes
+12905102,Delirium during clozapine treatment: incidence and associated risk factors.,191,Yes,Yes,Yes
+14513889,Ketoconazole-induced neurologic sequelae.,84,Yes,Yes,Yes
+15009014,Noxious chemical stimulation of rat facial mucosa increases intracranial blood flow through a trigem...,187,Yes,Yes,Yes
+15120741,Recurrent excitation in the dentate gyrus of a murine model of temporal lobe epilepsy.,198,Yes,Yes,Yes
+15275829,The alpha3 and beta4 nicotinic acetylcholine receptor subunits are necessary for nicotine-induced se...,204,Yes,Yes,Yes
+15602202,Recurrent acute interstitial nephritis induced by azithromycin.,55,Yes,Yes,Yes
+16181582,Valproate-induced encephalopathy.,66,Yes,Yes,Yes
+16298782,Nitro-L-arginine methyl ester: a potential protector against gentamicin ototoxicity.,143,Yes,Yes,Yes
+16428221,Cerebral vasculitis following oral methylphenidate intake in an adult: a case report.,117,Yes,Yes,Yes
+16858720,Cerebral haemorrhage induced by warfarin - the influence of drug-drug interactions.,201,Yes,Yes,Yes
+17466854,Side effects of postoperative administration of methylprednisolone and gentamicin into the posterior...,179,Yes,Yes,Yes
+17562951,Cardiac Angiography in Renally Impaired Patients (CARE) study: a randomized double-blind trial of co...,316,Yes,Yes,Yes
+17600377,"A novel compound, maltolyl p-coumarate, attenuates cognitive deficits and shows neuroprotective effe...",169,Yes,Yes,Yes
+17639754,Interaction between warfarin and levofloxacin: case series.,107,Yes,Yes,Yes
+17854040,Mutations associated with lamivudine-resistance in therapy-na  ve hepatitis B virus (HBV) infected p...,259,Yes,Yes,Yes
+18221780,Sex differences in NMDA antagonist enhancement of morphine antihyperalgesia in a capsaicin model of ...,203,Yes,Yes,Yes
+18261172,Development of proteinuria after switch to sirolimus-based immunosuppression in long-term cardiac tr...,194,Yes,Yes,Yes
+18329269,Synthesis of N-pyrimidinyl-2-phenoxyacetamides as adenosine A2A receptor antagonists.,41,Yes,Yes,Yes
+18410508,Methamphetamine-induced neurotoxicity and microglial activation are not mediated by fractalkine rece...,245,Yes,Yes,Yes
+18503483,Recovery of tacrolimus-associated brachial neuritis after conversion to everolimus in a pediatric re...,103,Yes,Yes,Yes
+18560792,Valvular heart disease in patients with Parkinson's disease treated with pergolide. Course following...,266,Yes,Yes,Yes
+18726058,Adverse effects of topical papaverine on auditory nerve function.,271,Yes,Yes,Yes
+18754075,Massive proteinuria and acute renal failure after oral bisphosphonate (alendronate) administration i...,112,Yes,Yes,Yes
+18768591,Serum- and glucocorticoid-inducible kinase 1 in doxorubicin-induced nephrotic syndrome.,241,Yes,Yes,Yes
+19299179,Severe and long lasting cholestasis after high-dose co-trimoxazole treatment for Pneumocystis pneumo...,85,Yes,Yes,Yes
+19356053,Clinically significant proteinuria following the administration of sirolimus to renal transplant rec...,256,Yes,Yes,Yes
+19729346,Comparative cognitive and subjective side effects of immediate-release oxycodone in healthy middle-a...,241,Yes,Yes,Yes
+20080983,Normalizing effects of modafinil on sleep in chronic cocaine users.,260,Yes,Yes,Yes
+20520283,Efficacy and safety of asenapine in a placebo- and haloperidol-controlled trial in patients with acu...,279,Yes,Yes,Yes
+20588063,"Permeability, ultrastructural changes, and distribution of novel proteins in the glomerular barrier ...",200,Yes,Yes,Yes
+19820426,Twin preterm neonates with cardiac toxicity related to lopinavir/ritonavir therapy.,60,Yes,Yes,Yes
+1616457,Learning of rats under amnesia caused by pentobarbital.,121,Yes,Yes,Yes
+567256,Angiosarcoma of the liver associated with diethylstilbestrol.,47,Yes,Yes,Yes
+17439425,Role of xanthine oxidase in dexamethasone-induced hypertension in rats.,180,Yes,Yes,Yes
+9351491,Extrapyramidal side effects with risperidone and haloperidol at comparable D2 receptor occupancy lev...,175,Yes,Yes,Yes
+18752389,Simvastatin-ezetimibe-induced hepatic failure necessitating liver transplantation.,254,Yes,Yes,Yes
+20098969,"Oral manifestations of ""meth mouth"": a case report.",244,Yes,Yes,Yes
+9653867,Thyroxine abuse: an unusual case of thyrotoxicosis in pregnancy.,100,Yes,Yes,Yes
+17608141,Attenuation of methamphetamine-induced nigrostriatal dopaminergic neurotoxicity in mice by lipopolys...,154,Yes,Yes,Yes
+2559236,Effect of converting enzyme inhibition on the course of adriamycin-induced nephropathy.,249,Yes,Yes,Yes
+21029050,Butyrylcholinesterase gene mutations in patients with prolonged apnea after succinylcholine for elec...,219,Yes,Yes,Yes
+10901305,Ketamine sedation for the reduction of children's fractures in the emergency department.,409,Yes,Yes,Yes
+19037603,Prophylactic use of lamivudine with chronic immunosuppressive therapy for rheumatologic disorders.,251,Yes,Yes,Yes
+20084309,Safety of transesophageal echocardiography in adults: study in a multidisciplinary hospital.,270,Yes,Yes,Yes
+8231633,Effects of calcium channel blockers on bupivacaine-induced toxicity.,136,Yes,Yes,Yes
+10091617,Selegiline-induced postural hypotension in Parkinson's disease: a longitudinal study on the effects ...,263,Yes,Yes,Yes
+19269743,Explicit episodic memory for sensory-discriminative components of capsaicin-induced pain: immediate ...,242,Yes,Yes,Yes
+3070035,Reversibility of captopril-induced renal insufficiency after prolonged use in an unusual case of ren...,77,Yes,Yes,Yes
+1147734,Liver disease caused by propylthiouracil.,46,Yes,Yes,Yes
+12202650,Capsaicin-induced muscle pain alters the excitability of the human jaw-stretch reflex.,164,Yes,Yes,Yes
+18951540,Repetitive transcranial magnetic stimulation for levodopa-induced dyskinesias in Parkinson's disease...,205,Yes,Yes,Yes
+19657887,Disulfiram-like syndrome after hydrogen cyanamide professional skin exposure: two case reports in Fr...,188,Yes,Yes,Yes
+9660111,Repeated trimipramine induces dopamine D2/D3 and alpha1-adrenergic up-regulation.,246,Yes,Yes,Yes
+11431197,Ranitidine-induced acute interstitial nephritis in a cadaveric renal allograft.,87,Yes,Yes,Yes
+7449470,"Late, late doxorubicin cardiotoxicity.",59,Yes,Yes,Yes
+8170551,Acetazolamide-induced nephrolithiasis: implications for treatment of neuromuscular disorders.,69,Yes,Yes,Yes
+2476560,Is the treatment of scabies hazardous?,106,Yes,Yes,Yes
+19803309,Anaesthetists' nightmare: masseter spasm after induction in an undiagnosed case of myotonia congenit...,48,Yes,Yes,Yes
+18821488,Toxicity in rhesus monkeys following administration of the 8-aminoquinoline 8-[(4-amino-l-methylbuty...,240,Yes,Yes,Yes
+8372922,Neuroplasticity of the adult primate auditory cortex following cochlear hearing loss.,159,Yes,Yes,Yes
+9195768,The site of common side effects of sumatriptan.,61,Yes,Yes,Yes
+15338796,"Tremor side effects of salbutamol, quantified by a laser pointer technique.",295,Yes,Yes,Yes
+12627929,Increased frequency of venous thromboembolism with the combination of docetaxel and thalidomide in p...,166,Yes,Yes,Yes
+6634932,"Sublingual absorption of the quaternary ammonium antiarrhythmic agent, UM-272.",76,Yes,Yes,Yes
+18791946,Severe thrombocytopenia and haemolytic anaemia associated with ciprofloxacin: a case report with fat...,140,Yes,Yes,Yes
+17344566,Simvastatin-induced bilateral leg compartment syndrome and myonecrosis associated with hypothyroidis...,58,Yes,Yes,Yes
+9293063,Bile duct hamartoma occurring in association with long-term treatment with danazol.,61,Yes,Yes,Yes
+1728522,Granulomatous hepatitis due to combination of amoxicillin and clavulanic acid.,78,Yes,Yes,Yes
+10807237,Intracranial aneurysms and cocaine abuse: analysis of prognostic indicators.,226,Yes,Yes,Yes
+12536034,Anti-epileptic drugs-induced de novo absence seizures.,151,Yes,Yes,Yes
+7234705,Procainamide-induced polymorphous ventricular tachycardia.,136,Yes,Yes,Yes
+8955532,Role of activation of bradykinin B2 receptors in disruption of the blood-brain barrier during acute ...,112,Yes,Yes,Yes
+2578334,5-azacytidine potentiates initiation induced by carcinogens in rat liver.,226,Yes,Yes,Yes
+11532387,Withdrawal-emergent rabbit syndrome during dose reduction of risperidone.,86,Yes,Yes,Yes
+3173179,Verapamil withdrawal as a possible cause of myocardial infarction in a hypertensive woman with a nor...,80,Yes,Yes,Yes
+3856631,Remission induction of meningeal leukemia with high-dose intravenous methotrexate.,196,Yes,Yes,Yes
+2522601,"Hypersensitivity to carbamazepine presenting with a leukemoid reaction, eosinophilia, erythroderma, ...",34,Yes,Yes,Yes
+8741744,The interpeduncular nucleus regulates nicotine's effects on free-field activity.,103,Yes,Yes,Yes
+17491223,Assessment of a new non-invasive index of cardiac performance for detection of dobutamine-induced my...,213,Yes,Yes,Yes
+18004067,Acute liver failure in two patients with regular alcohol consumption ingesting paracetamol at therap...,136,Yes,Yes,Yes
+12443032,Cocaine related chest pain: are we seeing the tip of an iceberg?,90,Yes,Yes,Yes
+17615423,"Severe rhabdomyolysis and acute renal failure secondary to concomitant use of simvastatin, amiodaron...",265,Yes,Yes,Yes
+8558192,Phase II trial of vinorelbine in metastatic squamous cell esophageal carcinoma. European Organizatio...,244,Yes,Yes,Yes
+11135224,"Paclitaxel, cisplatin, and gemcitabine combination chemotherapy within a multidisciplinary therapeut...",304,Yes,Yes,Yes
+8590259,Evaluation of adverse reactions of aponidine hydrochloride ophthalmic solution.,187,Yes,Yes,Yes
+2096243,Carmofur-induced organic mental disorders.,107,Yes,Yes,Yes
+6209318,International mexiletine and placebo antiarrhythmic coronary trial: I. Report on arrhythmia and othe...,195,Yes,Yes,Yes
+3615541,Regional localization of the antagonism of amphetamine-induced hyperactivity by intracerebral calcit...,113,Yes,Yes,Yes
+8953972,Fatal intracranial bleeding associated with prehospital use of epinephrine.,90,Yes,Yes,Yes
+3782049,A case of massive rhabdomyolysis following molindone administration.,57,Yes,Yes,Yes
+9100294,Cardiovascular alterations in rat fetuses exposed to calcium channel blockers.,141,Yes,Yes,Yes
+19889778,Differential impact of immune escape mutations G145R and P120T on the replication of lamivudine-resi...,257,Yes,Yes,Yes
+15278670,The effects of sevoflurane on lidocaine-induced convulsions.,204,Yes,Yes,Yes
+17042910,Anti-oxidant effects of atorvastatin in dexamethasone-induced hypertension in the rat.,303,Yes,Yes,Yes
+11897407,99mTc-glucarate for detection of isoproterenol-induced myocardial infarction in rats.,167,Yes,Yes,Yes
+9812111,"A randomized, placebo-controlled dose-comparison trial of haloperidol for psychosis and disruptive b...",271,Yes,Yes,Yes
+15572383,Individual differences in renal ACE activity in healthy rats predict susceptibility to adriamycin-in...,253,Yes,Yes,Yes
+7420681,Clinical nephrotoxicity of tobramycin and gentamicin. A prospective study.,128,Yes,Yes,Yes
+12907309,"Neuroprotective action of MPEP, a selective mGluR5 antagonist, in methamphetamine-induced dopaminerg...",202,Yes,Yes,Yes
+16680561,Pharmacokinetics of desipramine HCl when administered with cinacalcet HCl.,226,Yes,Yes,Yes
+17532790,Proteomic analysis of striatal proteins in the rat model of L-DOPA-induced dyskinesia.,198,Yes,Yes,Yes
+7582165,Pseudo-allergic reactions to corticosteroids: diagnosis and alternatives.,197,Yes,Yes,Yes
+16787750,Valproic acid induced encephalopathy--19 new cases in Germany from 1994 to 2003--a side effect assoc...,98,Yes,Yes,Yes
+3173180,Haemolytic-uraemic syndrome after treatment with metronidazole.,91,Yes,Yes,Yes
+8996652,Risk factors of sensorineural hearing loss in preterm infants.,116,Yes,Yes,Yes
+84204,Pharmacokinetic and clinical studies in patients with cimetidine-associated mental confusion.,161,Yes,Yes,Yes
+9862868,Different lobular distributions of altered hepatocyte tight junctions in rat models of intrahepatic ...,231,Yes,Yes,Yes
+15515654,Long term audiological evaluation of beta-thalassemic patients.,232,Yes,Yes,Yes
+2024540,Design and analysis of the HYPREN-trial: safety of enalapril and prazosin in the initial treatment p...,137,Yes,Yes,Yes
+12090760,Antagonism between interleukin 3 and erythropoietin in mice with azidothymidine-induced anemia and i...,195,Yes,Yes,Yes
+7516729,Interactive effects of variations in [Na]o and [Ca]o on rat atrial spontaneous frequency.,271,Yes,Yes,Yes
+2802551,Sodium status influences chronic amphotericin B nephrotoxicity in rats.,197,Yes,Yes,Yes
+19346865,Reversible inferior colliculus lesion in metronidazole-induced encephalopathy: magnetic resonance fi...,269,Yes,Yes,Yes
+2334618,Comparison of the respiratory effects of i.v. infusions of morphine and regional analgesia by extrad...,117,Yes,Yes,Yes
+8864707,Magnetic resonance volumetry of the cerebellum in epileptic patients after phenytoin overdosages.,208,Yes,Yes,Yes
+12589964,Evaluation of cardiac troponin I and T levels as markers of myocardial damage in doxorubicin-induced...,475,Yes,Yes,Yes
+11263551,Calcineurin-inhibitor induced pain syndrome (CIPS): a severe disabling complication after organ tran...,162,Yes,Yes,Yes
+10520387,The haemodynamic effects of propofol in combination with ephedrine in elderly patients (ASA groups 3...,146,Yes,Yes,Yes
+230316,Neurotoxicity of halogenated hydroxyquinolines: clinical analysis of cases reported outside Japan.,195,Yes,Yes,Yes
+11807648,Epileptic seizures following cortical application of fibrin sealants containing tranexamic acid in r...,214,Yes,Yes,Yes
+14596845,A diet promoting sugar dependency causes behavioral cross-sensitization to a low dose of amphetamine...,239,Yes,Yes,Yes
+6666578,D-penicillamine-induced angiopathy in rats. The effect of high dose D-penicillamine treatment on aor...,233,Yes,Yes,Yes
+11279304,Brain natriuretic peptide is a predictor of anthracycline-induced cardiotoxicity.,225,Yes,Yes,Yes
+19884587,Antibacterial medication use during pregnancy and risk of birth defects: National Birth Defects Prev...,273,Yes,Yes,Yes
+3970039,Incidence of neoplasms in patients with rheumatoid arthritis exposed to different treatment regimens...,219,Yes,Yes,Yes
+424937,Patterns of hepatic injury induced by methyldopa.,220,Yes,Yes,Yes
+8643971,A phase I/II study of paclitaxel plus cisplatin as first-line therapy for head and neck cancers: pre...,372,Yes,Yes,Yes
+2224762,A phase I study of 4'-0-tetrahydropyranyladriamycin. Clinical pharmacology and pharmacokinetics.,242,Yes,Yes,Yes
+2440413,Differential effects of gamma-hexachlorocyclohexane (lindane) on pharmacologically-induced seizures.,230,Yes,Yes,Yes
+12483326,Severe ocular and orbital toxicity after intracarotid injection of carboplatin for recurrent gliobla...,234,Yes,Yes,Yes
+1664218,Phase II study of the amsacrine analogue CI-921 (NSC 343499) in non-small cell lung cancer.,171,Yes,Yes,Yes
+18809400,Alpha-lipoic acid prevents mitochondrial damage and neurotoxicity in experimental chemotherapy neuro...,221,Yes,Yes,Yes
+17020434,Optimising stroke prevention in non-valvular atrial fibrillation.,183,Yes,Yes,Yes
+3865016,Interaction of cyclosporin A with antineoplastic agents.,91,Yes,Yes,Yes
+3629586,The hematologic effects of cefonicid and cefazedone in the dog: a potential model of cephalosporin h...,245,Yes,Yes,Yes
+150790,A pyridoxine-dependent behavioral disorder unmasked by isoniazid.,116,Yes,Yes,Yes
+10579464,"A selective dopamine D4 receptor antagonist, NRA0160: a preclinical neuropharmacological profile.",195,Yes,Yes,Yes
+3496378,Prolonged cholestasis after troleandomycin-induced acute hepatitis.,85,Yes,Yes,Yes
+3076126,HMG CoA reductase inhibitors. Current clinical experience.,263,Yes,Yes,Yes
+2894766,Sulfasalazine-induced lupus erythematosus.,95,Yes,Yes,Yes
+1549199,Optimization of levodopa therapy.,135,Yes,Yes,Yes
+88336,Alpha and beta coma in drug intoxication uncomplicated by cerebral hypoxia.,163,Yes,Yes,Yes
+18544179,"Omitting fentanyl reduces nausea and vomiting, without increasing pain, after sevoflurane for day su...",282,Yes,Yes,Yes
+18186898,Renal Fanconi syndrome and myopathy after liver transplantation: drug-related mitochondrial cytopath...,163,Yes,Yes,Yes
+16867021,"Antipsychotic-like profile of thioperamide, a selective H3-receptor antagonist in mice.",258,Yes,Yes,Yes
+14976857,Transient platypnea-orthodeoxia-like syndrome induced by propafenone overdose in a young woman with ...,128,Yes,Yes,Yes
+11745184,A Phase II trial of cisplatin plus WR-2721 (amifostine) for metastatic breast carcinoma: an Eastern ...,313,Yes,Yes,Yes
+3985451,Warfarin-induced iliopsoas hemorrhage with subsequent femoral nerve palsy.,89,Yes,Yes,Yes
+3750012,Myasthenia gravis caused by penicillamine and chloroquine therapy for rheumatoid arthritis.,37,Yes,Yes,Yes
+1130930,Nephrotoxicity of combined cephalothin-gentamicin regimen.,66,Yes,Yes,Yes
+19356307,Components of lemon essential oil attenuate dementia induced by scopolamine.,123,Yes,Yes,Yes
+15957009,The selective 5-HT6 receptor antagonist Ro4368554 restores memory performance in cholinergic and ser...,183,Yes,Yes,Yes
+15899738,Lone atrial fibrillation associated with creatine monohydrate supplementation.,260,Yes,Yes,Yes
+15863244,Comparison of developmental toxicity of selective and non-selective cyclooxygenase-2 inhibitors in C...,266,Yes,Yes,Yes
+12921865,Protective efficacy of neuroactive steroids against cocaine kindled-seizures in mice.,194,Yes,Yes,Yes
+12584269,"Kidney function and morphology after short-term combination therapy with cyclosporine A, tacrolimus ...",331,Yes,Yes,Yes
+10406016,Effect of fucoidan treatment on collagenase-induced intracerebral hemorrhage in rats.,183,Yes,Yes,Yes
+3403780,"Paracetamol-associated coma, metabolic acidosis, renal and hepatic failure.",39,Yes,Yes,Yes
+3101906,Hepatic reactions associated with ketoconazole in the United Kingdom.,253,Yes,Yes,Yes
+9088814,Combined effects of prolonged prostaglandin E1-induced hypotension and haemodilution on human hepati...,222,Yes,Yes,Yes
+20880751,Levodopa-induced dyskinesias in patients with Parkinson's disease: filling the bench-to-bedside gap.,121,Yes,Yes,Yes
+20080419,Prevention of seizures and reorganization of hippocampal functions by transplantation of bone marrow...,189,Yes,Yes,Yes
+19445921,Cardioprotective effect of salvianolic acid A on isoproterenol-induced myocardial infarction in rats...,200,Yes,Yes,Yes
+18439803,Acute effects of N-(2-propylpentanoyl)urea on hippocampal amino acid neurotransmitters in pilocarpin...,234,Yes,Yes,Yes
+17919553,Acute hepatitis attack after exposure to telithromycin.,272,Yes,Yes,Yes
+15632880,Spironolactone-induced renal insufficiency and hyperkalemia in patients with heart failure.,253,Yes,Yes,Yes
+11773892,End-stage renal disease (ESRD) after orthotopic liver transplantation (OLTX) using calcineurin-based...,390,Yes,Yes,Yes
+10835440,Effect of intravenous nimodipine on blood pressure and outcome after acute stroke.,282,Yes,Yes,Yes
+9523805,Transient neurologic symptoms after spinal anesthesia: a lower incidence with prilocaine and bupivac...,269,Yes,Yes,Yes
+9245658,The role of nicotine in smoking-related cardiovascular disease.,148,Yes,Yes,Yes
+9034419,Seizure resulting from a venlafaxine overdose.,118,Yes,Yes,Yes
+8829025,Effect of nifedipine on renal function in liver transplant recipients receiving tacrolimus.,118,Yes,Yes,Yes
+8437969,Sinus arrest associated with continuous-infusion cimetidine.,72,Yes,Yes,Yes
+7890216,Composition of gall bladder stones associated with octreotide: response to oral ursodeoxycholic acid...,274,Yes,Yes,Yes
+7468724,Cardiovascular complications associated with terbutaline treatment for preterm labor.,34,Yes,Yes,Yes
+7199841,"Neurologic effects of subarachnoid administration of 2-chloroprocaine-CE, bupivacaine, and low pH no...",165,Yes,Yes,Yes
+6640832,Early adjuvant adriamycin in superficial bladder carcinoma.,237,Yes,Yes,Yes
+3560096,Hyperkalemia associated with sulindac therapy.,127,Yes,Yes,Yes
+3358181,Ventricular tachyarrhythmias during cesarean section after ritodrine therapy: interaction with anest...,103,Yes,Yes,Yes
+2887062,"Immunohistochemical, electron microscopic and morphometric studies of estrogen-induced rat prolactin...",236,Yes,Yes,Yes
+2425813,"On two paradoxical side-effects of prednisolone in rats, ribosomal RNA biosyntheses, and a mechanism...",89,Yes,Yes,Yes
+2375138,Possible intramuscular midazolam-associated cardiorespiratory arrest and death.,57,Yes,Yes,Yes
+2265898,Serial epilepsy caused by levodopa/carbidopa administration in two patients on hemodialysis.,84,Yes,Yes,Yes
+2071257,Effect of L-alpha-glyceryl-phosphorylcholine on amnesia caused by scopolamine.,95,Yes,Yes,Yes
+1592014,Seizures induced by the cocaine metabolite benzoylecgonine in rats.,212,Yes,Yes,Yes
+1436384,Protection against amphetamine-induced neurotoxicity toward striatal dopamine neurons in rodents by ...,240,Yes,Yes,Yes
+1085609,Neonatal pyridoxine responsive convulsions due to isoniazid therapy.,52,Yes,Yes,Yes
+809711,Reversal by phenylephrine of the beneficial effects of intravenous nitroglycerin in patients with ac...,177,Yes,Yes,Yes
+20621845,"Elevation of ADAM10, ADAM17, MMP-2 and MMP-9 expression with media degeneration features CaCl2-induc...",222,Yes,Yes,Yes
+19843802,When drugs disappear from the patient: elimination of intravenous medication by hemodiafiltration.,101,Yes,Yes,Yes
+19473225,Long-term glutamate supplementation failed to protect against peripheral neurotoxicity of paclitaxel...,200,Yes,Yes,Yes
+19387625,Attentional modulation of perceived pain intensity in capsaicin-induced secondary hyperalgesia.,98,Yes,Yes,Yes
+19211690,Testosterone-dependent hypertension and upregulation of intrarenal angiotensinogen in Dahl salt-sens...,224,Yes,Yes,Yes
+18703024,Prenatal protein deprivation alters dopamine-mediated behaviors and dopaminergic and glutamatergic r...,179,Yes,Yes,Yes
+18631865,"mToR inhibitors-induced proteinuria: mechanisms, significance, and management.",124,Yes,Yes,Yes
+18162529,"Hypothalamic prolactin receptor messenger ribonucleic acid levels, prolactin signaling, and hyperpro...",248,Yes,Yes,Yes
+17879945,Estrogen prevents cholesteryl ester accumulation in macrophages induced by the HIV protease inhibito...,276,Yes,Yes,Yes
+17437408,Upregulation of brain expression of P-glycoprotein in MRP2-deficient TR(-) rats resembles seizure-in...,411,Yes,Yes,Yes
+17242861,Use of chromosome substitution strains to identify seizure susceptibility loci in mice.,203,Yes,Yes,Yes
+16337777,Investigation of mitochondrial involvement in the experimental model of epilepsy induced by pilocarp...,196,Yes,Yes,Yes
+15859940,Causes of acute thrombotic microangiopathy in patients receiving kidney transplantation.,243,Yes,Yes,Yes
+15188772,Severe reversible left ventricular systolic and diastolic dysfunction due to accidental iatrogenic e...,93,Yes,Yes,Yes
+15130900,Urinary bladder cancer in Wegener's granulomatosis: risks and relation to cyclophosphamide.,258,Yes,Yes,Yes
+12707296,L-arginine transport in humans with cortisol-induced hypertension.,242,Yes,Yes,Yes
+12695819,MR imaging with quantitative diffusion mapping of tacrolimus-induced neurotoxicity in organ transpla...,172,Yes,Yes,Yes
+12596116,Octreotide-induced hypoxemia and pulmonary hypertension in premature neonates.,52,Yes,Yes,Yes
+11875660,Sequential observations of exencephaly and subsequent morphological changes by mouse exo utero devel...,255,Yes,Yes,Yes
+11166519,Acute cocaine-induced seizures: differential sensitivity of six inbred mouse strains.,142,Yes,Yes,Yes
+8701950,Microangiopathic hemolytic anemia complicating FK506 (tacrolimus) therapy.,94,Yes,Yes,Yes
+7292072,Variant ventricular tachycardia in desipramine toxicity.,63,Yes,Yes,Yes
+4027862,"Desipramine-induced delirium at ""subtherapeutic"" concentrations: a case report.",80,Yes,Yes,Yes
+2484011,Mouse strain-dependent effect of amantadine on motility and brain biogenic amines.,294,Yes,Yes,Yes
+2396046,No enhancement by phenobarbital of the hepatocarcinogenicity of a choline-devoid diet in the rat.,143,Yes,Yes,Yes
+2008831,Effect of direct intracoronary administration of methylergonovine in patients with and without varia...,159,Yes,Yes,Yes
+1732369,Dobutamine stress echocardiography: a sensitive indicator of diminished myocardial function in asymp...,259,Yes,Yes,Yes
+234669,Effects of aminophylline on the threshold for initiating ventricular fibrillation during respiratory...,191,Yes,Yes,Yes
+16740173,Case report: acute unintentional carbachol intoxication.,350,Yes,Yes,Yes
+12464714,Crossover comparison of efficacy and preference for rizatriptan 10 mg versus ergotamine/caffeine in ...,327,Yes,Yes,Yes
+6203452,Thrombotic microangiopathy and renal failure associated with antineoplastic chemotherapy.,133,Yes,Yes,Yes
+20528871,"Salvage therapy with nelarabine, etoposide, and cyclophosphamide in relapsed/refractory paediatric T...",131,Yes,Yes,Yes
+11672959,The 3-week sulphasalazine syndrome strikes again.,151,Yes,Yes,Yes
+11928786,Bupropion (Zyban) toxicity.,149,Yes,Yes,Yes
+7977601,Survey of complications of indocyanine green angiography in Japan.,214,Yes,Yes,Yes
+19300402,Bradykinin receptors antagonists and nitric oxide synthase inhibitors in vincristine and streptozoto...,264,Yes,Yes,Yes
+15325671,Cardiac toxicity observed in association with high-dose cyclophosphamide-based chemotherapy for meta...,207,Yes,Yes,Yes
+9746003,Inappropriate use of carbamazepine and vigabatrin in typical absence seizures.,97,Yes,Yes,Yes
+1992636,Hemolytic anemia associated with the use of omeprazole.,158,Yes,Yes,Yes
+8387218,The use and toxicity of didanosine (ddI) in HIV antibody-positive individuals intolerant to zidovudi...,204,Yes,Yes,Yes
+20698227,Can angiogenesis be a target of treatment for ribavirin associated hemolytic anemia?,202,Yes,Yes,Yes
+20477932,Cocaine causes memory and learning impairments in rats: involvement of nuclear factor kappa B and ox...,202,Yes,Yes,Yes
+9495837,Antinociceptive and antiamnesic properties of the presynaptic cholinergic amplifier PG-9.,250,Yes,Yes,Yes
+1468485,Hyperbaric oxygen therapy for control of intractable cyclophosphamide-induced hemorrhagic cystitis.,99,Yes,Yes,Yes
+1009330,Further studies on effects of irrigation solutions on rat bladders.,87,Yes,Yes,Yes
+347884,Clinical experiences in an open and a double-blind trial.,187,Yes,Yes,Yes
+20667451,Curcumin ameliorates cognitive dysfunction and oxidative damage in phenobarbitone and carbamazepine ...,244,Yes,Yes,Yes
+19767176,Pyrrolidine dithiocarbamate protects the piriform cortex in the pilocarpine status epilepticus model...,242,Yes,Yes,Yes
+16330293,Safety profile of a nicotine lozenge compared with that of nicotine gum in adult smokers with underl...,396,Yes,Yes,Yes
+14568327,Development of levodopa-induced dyskinesias in parkinsonian monkeys may depend upon rate of symptom ...,205,Yes,Yes,Yes
+11250767,Propylthiouracil-induced perinuclear-staining antineutrophil cytoplasmic autoantibody-positive vascu...,134,Yes,Yes,Yes
+11206082,Two mouse lines selected for differential sensitivities to beta-carboline-induced seizures are also ...,120,Yes,Yes,Yes
+11027905,"Analgesic effect of intravenous ketamine in cancer patients on morphine therapy: a randomized, contr...",266,Yes,Yes,Yes
+9334596,"Endocrine screening in 1,022 men with erectile dysfunction: clinical significance and cost-effective...",469,Yes,Yes,Yes
+8595686,Thiopentone pretreatment for propofol injection pain in ambulatory patients.,224,Yes,Yes,Yes
+6466532,Comparison of i.v. glycopyrrolate and atropine in the prevention of bradycardia and arrhythmias foll...,137,Yes,Yes,Yes
+6308277,Reduction in caffeine toxicity by acetaminophen.,224,Yes,Yes,Yes
+2870085,Flestolol: an ultra-short-acting beta-adrenergic blocking agent.,179,Yes,Yes,Yes
+1639466,Adverse effect of the calcium channel blocker nitrendipine on nephrosclerosis in rats with renovascu...,250,Yes,Yes,Yes
+1527456,Treatment of tinnitus by intratympanic instillation of lignocaine (lidocaine) 2 per cent through ven...,141,Yes,Yes,Yes
+220563,Perhexiline maleate and peripheral neuropathy.,104,Yes,Yes,Yes
+137340,Effect of humoral modulators of morphine-induced increase in locomotor activity of mice.,187,Yes,Yes,Yes
+9931093,Mechanisms of FK 506-induced hypertension in the rat.,209,Yes,Yes,Yes
+20633755,Suxamethonium induced prolonged apnea in a patient receiving electroconvulsive therapy.,53,Yes,Yes,Yes
+20067456,The effects of the adjunctive bupropion on male sexual dysfunction induced by a selective serotonin ...,285,Yes,Yes,Yes
+18464113,Lamivudine for the prevention of hepatitis B virus reactivation in hepatitis-B surface antigen (HBSA...,272,Yes,Yes,Yes
+18308784,Ginsenoside Rg1 restores the impairment of learning induced by chronic morphine administration in ra...,232,Yes,Yes,Yes
+17931375,A study on the effect of the duration of subcutaneous heparin injection on bruising and pain.,276,Yes,Yes,Yes
+15649445,Acute reserpine and subchronic haloperidol treatments change synaptosomal brain glutamate uptake and...,181,Yes,Yes,Yes
+14698717,Acute psychosis due to treatment with phenytoin in a nonepileptic patient.,67,Yes,Yes,Yes
+12617329,The effect of treatment with gum Arabic on gentamicin nephrotoxicity in rats: a preliminary study.,233,Yes,Yes,Yes
+12523465,Visual hallucinations associated with zonisamide.,150,Yes,Yes,Yes
+11961407,GLEPP1 receptor tyrosine phosphatase (Ptpro) in rat PAN nephrosis. A marker of acute podocyte injury...,276,Yes,Yes,Yes
+9401499,Ticlopidine-induced aplastic anemia: report of three Chinese patients and review of the literature.,152,Yes,Yes,Yes
+2273650,Facilitation of memory retrieval by pre-test morphine and its state dependency in the step-through t...,80,Yes,Yes,Yes
+10683478,Test conditions influence the response to a drug challenge in rodents.,226,Yes,Yes,Yes

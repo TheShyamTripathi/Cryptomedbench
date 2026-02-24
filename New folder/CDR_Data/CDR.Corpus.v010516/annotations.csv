@@ -1,0 +1,18 @@
+document_id,passage_id,annotation_id,entity_text,start_offset,length,type,MESH
+803783,1,3,water intoxication,105,18,Disease,D014869
+803783,1,4,oxytocin,143,8,Chemical,D010121
+803783,1,5,abortions,189,9,Disease,D000031
+803783,1,6,water intoxication,231,18,Disease,D014869
+803783,1,7,Oxytocin,289,8,Chemical,D010121
+803783,1,8,abortions,341,9,Disease,D000031
+803783,1,9,water intoxication,473,18,Disease,D014869
+803783,1,10,asthenia,576,8,Disease,D001247
+803783,1,11,irritability,595,12,Disease,D001523
+803783,1,12,headaches,612,9,Disease,D006261
+803783,1,13,oxytocin,627,8,Chemical,D010121
+803783,1,14,lactate,668,7,Chemical,D019344
+803783,1,15,lactate,704,7,Chemical,D019344
+803783,1,16,dextrose,729,8,Chemical,D005947
+803783,1,17,oxytocin,806,8,Chemical,D010121
+803783,1,18,oxytocin,915,8,Chemical,D010121
+803783,1,19,oxytocin,1017,8,Chemical,D010121

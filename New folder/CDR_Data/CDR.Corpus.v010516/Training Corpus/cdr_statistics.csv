@@ -1,0 +1,10 @@
+Metric,Value
+Total Documents,500
+Total Chemical Mentions,5207
+Total Disease Mentions,4363
+Total CID Relations,1038
+Unique Chemical MESH IDs,665
+Unique Disease MESH IDs,715
+Average Chemicals per Document,10.41
+Average Diseases per Document,8.73
+Average Relations per Document,2.08
