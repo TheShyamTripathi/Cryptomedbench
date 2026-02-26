@@ -212,4 +212,8 @@ PubMed_20k_RCT/
 PubMed_20k_RCT_numbers_replaced_with_at_sign/
 PubMed_200k_RCT/
 PubMed_200k_RCT_numbers_replaced_with_at_sign/
-
+fhe_fresh_env/
+fhe_env/
+CDR_Data/
+lstm_text_classifier_safe/
+pubmed200k_models/
